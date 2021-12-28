@@ -1,0 +1,20 @@
+mat-toolbar{
+  width: 80%;
+  margin: auto;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+ul{
+  display: flex;
+}
+li{
+  list-style: none;
+}
+
+.spacer{
+  flex: 1 1 auto;
+}
